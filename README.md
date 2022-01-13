@@ -3,7 +3,7 @@
 # scraper-api
 
 <p align="center" width="300">
-   <img align="center" width="500" src="https://i.ibb.co/Yb48YgM/manziAPI.gif" alt="project animation" />
+   <img align="center" width="500" src="./assets/manziAPI.gif" alt="project animation" />
 </p>
 
 ## In this project i learned how to:
