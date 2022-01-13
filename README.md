@@ -2,7 +2,9 @@
 
 # scraper-api
 
-[![N|Solid](https://i.ibb.co/Yb48YgM/manziAPI.gif)](https://rapidapi.com/Manzaraz/api/manzi-amazon-data-scraper1)
+<p align="center" width="300">
+   <img align="center" width="500" src="https://i.ibb.co/Yb48YgM/manziAPI.gif" alt="project animation" />
+</p>
 
 ## In this project i learned how to:
 
